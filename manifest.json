@@ -1,0 +1,106 @@
+{
+  "version": 1,
+  "locale": "en_US.UTF-8",
+  "platform": "4.5.2",
+  "metadata": {
+    "appmode": "shiny",
+    "primary_rmd": null,
+    "primary_html": null,
+    "content_category": null,
+    "has_parameters": false
+  },
+  "packages": {
+    "shiny": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org",
+      "description": {
+        "Package": "shiny",
+        "Version": "1.11.1",
+        "Repository": "CRAN"
+      }
+    },
+    "bslib": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org",
+      "description": {
+        "Package": "bslib",
+        "Version": "0.12.0",
+        "Repository": "CRAN"
+      }
+    },
+    "ggplot2": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org",
+      "description": {
+        "Package": "ggplot2",
+        "Version": "4.0.0",
+        "Repository": "CRAN"
+      }
+    },
+    "DT": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org",
+      "description": {
+        "Package": "DT",
+        "Version": "0.34.0",
+        "Repository": "CRAN"
+      }
+    },
+    "readxl": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org",
+      "description": {
+        "Package": "readxl",
+        "Version": "1.6.0",
+        "Repository": "CRAN"
+      }
+    },
+    "forecast": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org",
+      "description": {
+        "Package": "forecast",
+        "Version": "9.0.0",
+        "Repository": "CRAN"
+      }
+    },
+    "urca": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org",
+      "description": {
+        "Package": "urca",
+        "Version": "1.3-4",
+        "Repository": "CRAN"
+      }
+    },
+    "lmtest": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org",
+      "description": {
+        "Package": "lmtest",
+        "Version": "0.9-40",
+        "Repository": "CRAN"
+      }
+    },
+    "tseries": {
+      "Source": "CRAN",
+      "Repository": "https://cloud.r-project.org",
+      "description": {
+        "Package": "tseries",
+        "Version": "0.10-58",
+        "Repository": "CRAN"
+      }
+    }
+  },
+  "files": {
+    "app.R": {
+      "checksum": "4068e69270b37020c9e8729f6cd3e590"
+    },
+    "instalar_paquetes.R": {
+      "checksum": "10d9909a3ff4e396f431386071b44522"
+    },
+    "INSTRUCCIONES.md": {
+      "checksum": "0edd5d93df6e47f2bc518684f7c76e39"
+    }
+  }
+}
