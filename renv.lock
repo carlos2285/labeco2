@@ -1,4 +1,7 @@
 {
+  "renv": {
+    "Version": "1.1.5"
+  },
   "R": {
     "Version": "4.5.2",
     "Repositories": [
